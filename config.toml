@@ -1,4 +1,4 @@
-baseURL       = "http://www.pandion.us/"
+baseURL       = "https://pandion.us/"
 languageCode  = "en-us"
 title         = "Pandion | Production Studio"
 theme         = "roxo"
