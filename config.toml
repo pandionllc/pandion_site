@@ -1,6 +1,6 @@
 baseURL       = "http://www.pandion.us/"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "Pandion | Production Studio"
 theme         = "roxo"
 summarylength = 25
 
@@ -33,10 +33,10 @@ summarylength = 25
   logo = "images/logo.png"
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "Roxo Hugo themes | Design Agency Template by StaticMania"
-  author = "StaticMania"
+  description = "Pandion | Production Studio"
+  author = "Pandion LLC"
   # Google Analitycs
-  googleAnalitycsID = "Your ID"
+  googleAnalitycsID = "G-NQP8N9XT5K"
   # We're using formspree.io for form handling, paste your formspree url below
   formspreeFormUrl  = "https://formspree.io/myykjpje"
 
