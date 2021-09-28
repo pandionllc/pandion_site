@@ -1,0 +1,13 @@
+# footer menu left
+[[footer_left]]
+name = "About Us"
+url = "#"
+
+# footer menu right
+[[footer_middle]]
+name = "Privacy Policy"
+url = "privacy-policy"
+
+[[footer_middle]]
+name = "Terms & Conditions"
+url = "terms-conditions"
