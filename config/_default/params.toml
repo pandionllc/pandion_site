@@ -1,10 +1,10 @@
 #################### default parameters ################################
-logo = "images/logo.png"
+logo = "images/logo-color.png"
 logo_width = "200px"
 # OpenGraph / Twitter Card metadata
-description = "Pandion Digital Productions Homepage"
-author = "Themefisher"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+description = "Pandion Productions Homepage"
+author = "Pandion LLC"
+image = "images/logo-color.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
