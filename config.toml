@@ -20,13 +20,9 @@ summarylength = 25
     url     = "portfolio"
     weight  = 3
   [[menu.nav]]
-    name    = "Blog"
-    url     = "blog"
-    weight  = 4
-  [[menu.nav]]
     name    = "Get in touch"
     url     = "contact"
-    weight  = 5
+    weight  = 4
 
 # Site Params
 [params]
@@ -66,8 +62,8 @@ summarylength = 25
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "We Have a Passion For Creating Content That Inspires"
+    background_image      = "images/backgrounds/view-master.jpg"
+    heading               = "Creating Content That Inspires Action"
     tagline               = "DIGITAL & ANALOG STORYTELLING"
     primary_button        = "See Our Work"
     primary_button_url    = "portfolio"
