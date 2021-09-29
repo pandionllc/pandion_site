@@ -1,4 +1,27 @@
+[[main]]
+name = "About Us"
+url = ""
+weight = 1
 
+[[main]]
+name = "Projects"
+url = ""
+weight = 2
+
+[[main]]
+name = "Merchandise"
+url = ""
+weight = 3
+
+[[main]]
+name = "Gear Rental"
+url = "https://www.sharegrid.com/p/dNg35-gimr6OaaaKkSeqad"
+weight = 4
+
+[[main]]
+name = "Stock"
+url = ""
+weight = 5
 
 # footer menu left
 [[footer_left]]

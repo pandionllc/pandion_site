@@ -2,7 +2,7 @@
 ####################### Banner #########################
 banner:
   title : "Focused on creating content that <br>inspires & motivates people"
-  image : "images/banner-art.svg"
+  image : "images/hero-background.png"
   content : "Our goal is to tell stories in the medium that engages the audience in the most powerful way. <br> Our award winning team is based in Portland, Or. and has travelled around the world."
   button:
     enable : true
@@ -12,21 +12,21 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "A few of our current projects"
+  title : "What We Do"
   feature_item:
     # feature item loop
-    - name : "Taking a Vaction"
-      icon : "fas fa-code"
+    - name : "Publications"
+      icon : "fas fa-book"
       content : "We all need a break from the daily grind. This blog helps inspire and educate people on how to explore the unkown"
       
     # feature item loop
-    - name : "Product Meets Tech"
-      icon : "fas fa-object-group"
+    - name : "Podcasts"
+      icon : "fas fa-microphone-alt"
       content : "Premiere publication on the intersection of technology, products and innovation."
       
     # feature item loop
-    - name : "Upcoming Cooking Show"
-      icon : "fas fa-user-clock"
+    - name : "Visual Work"
+      icon : "fas fa-camera-retro"
       content : "Mixing beautiful locations, delicous wine, a wonderful host and some of the top chefs in the Pacific Northwest."
       
 
@@ -36,29 +36,29 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "Pre-production & Ideation."
+    - title : "Taking a Vaction."
       images:
       - "images/service-1.png"
       - "images/service-2.png"
       - "images/service-3.png"
-      content : "We operate differently then most production companies. Since we come from the corporate world our process starts with market analysis and ideation. We believe the best idea comes from having a lot of ideas and always testing our assumtions."
+      content : "We all need a break from the daily grind. This blog helps inspire and educate people on how to explore the unkown."
       button:
         enable : true
         label : "Check it out"
-        link : "#"
+        link : "https://www.takingavacation.com"
         
     # service item loop
-    - title : "Development"
+    - title : "Product Meets Tech"
       images:
       - "images/service-1.png"
-      content : "From site design to sound editing to camera work we do everything inhouse. Is this smart? Probably not, but it keeps us in complete control (We are kinda control freaks). Our content take a while to produce and we only work on a limited number of things at once."
+      content : "Premiere publication on the intersection of technology, products and innovation."
       button:
         enable : true
         label : "Check it out"
         link : "#"
         
     # service item loop
-    - title : "Marketing and Distribution"
+    - title : "Upcoming Podcast"
       images:
       - "images/service-2.png"
       content : "Most of our content is marketed and released online. We believe in having as few barriers between what we create and the people consuming it as possible. You will also see only limited advertising and never any pop-ups or slow loading content. Sure we could make a lot of money doing it that way but it sucks and so we don't"
@@ -68,10 +68,10 @@ service:
         link : "#"
         
     # service item loop
-    - title : "Analytics"
+    - title : "Upcoming Cooking Show"
       images:
       - "images/service-3.png"
-      content : "Did I mention our team comes from the corporate world? Our founder has a data analytics background as is obsessed with making sure we track the things that matter so we can always be adapting."
+      content : "Mixing beautiful locations, delicous wine, a wonderful host and some of the top chefs in the Pacific Northwest."
       button:
         enable : true
         label : "Check it out"
